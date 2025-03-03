@@ -1,0 +1,19 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "This is just for rev learning",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AQIBMOHD/ReactLearning.git"
+  },
+  "author": "Md Aqib (Aqib Naqvi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AQIBMOHD/ReactLearning/issues"
+  },
+  "homepage": "https://github.com/AQIBMOHD/ReactLearning#readme"
+}
